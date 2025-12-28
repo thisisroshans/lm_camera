@@ -1,0 +1,10 @@
+.dart_tool/
+.packages
+.dart_tool/
+build/
+.idea/
+.vscode/
+pubspec.lock
+**/generated_plugin_registrant.dart
+example/.dart_tool/
+example/.packages
